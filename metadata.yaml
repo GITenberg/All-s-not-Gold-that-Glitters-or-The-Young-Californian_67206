@@ -1,11 +1,16 @@
 _repo: All-s-not-Gold-that-Glitters-or-The-Young-Californian_67206
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67206-h/images/cover.jpg
 creator:
   author:
     agent_name: Haven, Alice Bradley
     gutenberg_agent_id: '54155'
     url: http://www.gutenberg.org/2009/agents/54155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67206#All-s-not-Gold-that-Glitters-or-The-Young-Californian
 gutenberg_issued: '2022-01-20'
 identifiers:
   gutenberg: '67206'
